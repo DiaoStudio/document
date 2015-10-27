@@ -1,2 +1,6 @@
-# document
-Documents of Diao's Studio
+# Diao's Studio文档库
+所有项目无关的共有文档存放在此项目中，并且做出以下约定：
+
+1.  文档一律markdown
+2.  图片一律不许用外链
+3.  未完待续，就是这样~
